@@ -17,7 +17,7 @@ npm  i
 ### Serve the project locally
 
 ```
-npm  run dev
+npm run dev
 ```
 
 ### Build static files for deployment
