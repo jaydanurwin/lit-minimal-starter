@@ -11,7 +11,7 @@ The main branch is Javascript but if you prefer to use Typescript there is a bra
 ### Install Dependencies
 
 ```
-npm  i
+npm i
 ```
 
 ### Serve the project locally
