@@ -1,1 +1,1 @@
-# Lit Minimal Starter# lit-minimal-starter
+# Lit Minimal Starter
