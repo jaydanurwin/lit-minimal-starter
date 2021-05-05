@@ -6,7 +6,7 @@
   "main": "./src/pages/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "web-dev-server --node-resolve --watch --open /src/pages/index.html",
+    "dev": "web-dev-server --node-resolve --watch --open /src/index.html",
     "build": "rollup -c"
   },
   "dependencies": {
