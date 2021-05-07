@@ -4,7 +4,7 @@ This repo is a simple starter for creating a web app and/or a website with [Lit.
 
 It is designed to be as minimal as possible but still has the dependencies needed to serve and deploy successfully.
 
-The main branch is Javascript but if you prefer to use Typescript there is a branch ready to go for you
+The main branch is Javascript but if you prefer to use Typescript feel free to use [this template instead](https://github.com/jaydanurwin/lit-minimal-starter-ts)
 
 ## Instructions for use:
 
